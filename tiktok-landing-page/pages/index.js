@@ -6,7 +6,7 @@ export default function LandingPage() {
   
   // ===== CUSTOMIZE THESE VALUES =====
   // Replace with the creator's actual photo URLs
-  const profileImage = 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=800&h=800&fit=crop';
+  const profileImage = 'https://imgur.com/a/Bd3phWH';
   const tiktokCardImage = 'https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800&h=600&fit=crop';
   
   // Replace with actual values
