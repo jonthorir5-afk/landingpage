@@ -10,12 +10,12 @@ export default function LandingPage() {
   const tiktokCardImage = 'https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800&h=600&fit=crop';
   
   // Replace with actual values
-  const creatorName = '[Name]';
+  const creatorName = 'Arianna';
   const username = '@username';
   const tiktokUrl = 'https://tiktok.com/@username';
-  const META_PIXEL_ID = 'YOUR_PIXEL_ID_HERE';
+  const META_PIXEL_ID = '693023723805931';
   // ==================================
-
+  
   useEffect(() => {
     // Initialize Meta Pixel
     if (typeof window !== 'undefined' && META_PIXEL_ID !== 'YOUR_PIXEL_ID_HERE') {
