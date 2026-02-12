@@ -7,7 +7,7 @@ export default function LandingPage() {
   // ===== CUSTOMIZE THESE VALUES =====
   const profileImage = 'https://imgur.com/a/Bd3phWH'; // Creator image
   const ofCardImage = 'https://YOUR-TEASER-IMAGE-URL.jpg'; // Teaser image
-  const creatorName = 'Arianna';
+  const creatorName = 'Ariana';
   const username = '@username';
   const onlyFansUrl = 'https://onlyfans.com/YOURMODEL';
   const META_PIXEL_ID = '693023723805931';
