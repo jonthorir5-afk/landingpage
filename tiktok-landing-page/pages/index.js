@@ -12,7 +12,7 @@ export default function LandingPage() {
 
   // Replace with actual values
   const creatorName = 'Ariana';
-  //const username = '@username'; --- NÚLLAÐI ÚT
+  const username = '@username'; 
 
   // IMPORTANT: set this to the model's OF link
   const onlyFansUrl = 'https://onlyfans.com/arianaangelsxo/c90';
