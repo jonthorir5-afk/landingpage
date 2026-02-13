@@ -8,14 +8,14 @@ export default function LandingPage() {
   // Replace with the creator's actual photo URLs
   const profileImage = 'https://i.imgur.com/ghzWmXu.jpeg';
   const ofCardImage =
-    'https://i.imgur.com/t7gaSxo.jpeg';
+    'https://i.imgur.com/lUxXtCr.png';
 
   // Replace with actual values
   const creatorName = 'Ariana';
-  const username = '@username';
+  //const username = '@username'; -- NÚLLAÐI ÚT
 
   // IMPORTANT: set this to the model's OF link
-  const onlyFansUrl = 'https://onlyfans.com/YOURMODEL';
+  const onlyFansUrl = 'https://onlyfans.com/arianaangelsxo/c90';
 
   // Your pixel ID
   const META_PIXEL_ID = '693023723805931';
