@@ -6,12 +6,12 @@ export default function LandingPage() {
 
   // ===== CUSTOMIZE THESE VALUES =====
   // Replace with the creator's actual photo URLs
-  const profileImage = 'https://imgur.com/a/Bd3phWH';
+  const profileImage = 'https://i.imgur.com/ghzWmXu.jpeg';
   const ofCardImage =
     'https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800&h=600&fit=crop';
 
   // Replace with actual values
-  const creatorName = 'Arianna';
+  const creatorName = 'Ariana';
   const username = '@username';
 
   // IMPORTANT: set this to the model's OF link
