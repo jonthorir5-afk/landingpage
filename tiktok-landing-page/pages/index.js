@@ -8,7 +8,7 @@ export default function LandingPage() {
   // Replace with the creator's actual photo URLs
   const profileImage = 'https://i.imgur.com/ghzWmXu.jpeg';
   const ofCardImage =
-    'https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800&h=600&fit=crop';
+    'https://i.imgur.com/t7gaSxo.jpeg';
 
   // Replace with actual values
   const creatorName = 'Ariana';
